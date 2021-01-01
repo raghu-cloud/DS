@@ -1,2 +1,2 @@
-# DS
-Data-Structure-And-Algorithm
+# DataStructures-and-Algorithams
+Algorithams-Robert Sedgewick
